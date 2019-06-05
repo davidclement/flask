@@ -1,4 +1,4 @@
-# PlanGrid Homework
+# Homework
 
 ## Installation
 - make a virtualenv: `python3 -m venv venv` 
