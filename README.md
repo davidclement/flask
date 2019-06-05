@@ -6,7 +6,7 @@
 - install dependences: `pip install -r requirements.txt`
 
 ## run the web app
-- flask run
+- `flask run`
 
 ## Test w/ curl
 - `curl localhost:5000`
