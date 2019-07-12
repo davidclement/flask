@@ -17,4 +17,4 @@
 - `python tests.py`
 
 ## logging
-- logs to `hw.log` -- b/c of some flask magic that I'm not yet aware of, flask is logging some stuff at INFO to the log that's redundant.  Since the instructions called for a DEBUG message, I'm leaving the redundancy for now.
+- logs to `hw.log` -- because of some flask magic that I'm not yet aware of, flask is logging some stuff at INFO to the log that's redundant.  Since the instructions called for a DEBUG message, I'm leaving the redundancy for now.
